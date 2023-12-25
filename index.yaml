@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  planarally:
+  - apiVersion: v2
+    appVersion: v2023.3.0
+    created: "2023-12-25T15:04:29.52320547Z"
+    description: A Helm chart for Kubernetes
+    digest: 199c2e2ae8a64b0f986609c05cf19342aab3d313d0aa39b958b77e8c6028e7ce
+    icon: https://www.planarally.io/logos/pa-logo.svg
+    maintainers:
+    - name: GeorgeRaven
+      url: https://github.com/DreamingRaven
+    name: planarally
+    type: application
+    urls:
+    - https://github.com/DreamingRaven/PlanarAlly/releases/download/planarally-0.1.0/planarally-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-25T15:04:29.52321574Z"
